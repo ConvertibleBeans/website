@@ -1,3 +1,21 @@
 .title {
     color: green;
 }
+
+.salami-button {
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+}
+
+/* hide image by default */
+#mion-image {
+    display: none;
+}
+
+/* image sizing */
+.salami-image {
+    width: 150px;
+    height: auto;
+}
