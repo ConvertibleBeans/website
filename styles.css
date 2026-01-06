@@ -2,7 +2,7 @@
     color: green;
 }
 
-.salami-button {
+#salami-button {
     border: none;
     background: transparent;
     padding: 0;
@@ -15,7 +15,7 @@
 }
 
 /* image sizing */
-.salami-image {
+#salami-image {
     width: 150px;
     height: auto;
 }
