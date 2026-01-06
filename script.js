@@ -1,6 +1,9 @@
-let numButtonClicks = 0;
-function buttonClicked() {
-    numButtonClicks = numButtonClicks + 1;
-    document.getElementById("mainDiv").textContent =
-        "Button Clicked times: " + numButtonClicks;
-}
+document.addEventListener("DOMContentLoaded", () => {
+    const salamiButton = document.getElementById("salami-button");
+    const mionImage = document.getElementById("mion-image");
+
+    salamiButton.addEventListener("click", () => {
+        mionImage.style.display = "block";
+        salamiButton.style.display = "none";
+    });
+});
