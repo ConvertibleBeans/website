@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:-//Apple Inc.//macOS 26.5//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20260723T095918Z
+DESCRIPTION:<table><tbody><tr><td><table><tbody><tr><td><br><p>We’re bri
+ nging ReSee from Paris to the Hamptons\, and we’d love to welcome you. J
+ oin us for an intimate pop-up experience featuring a special selection o
+ f rare vintage &amp\; archival finds.</p></td></tr></tbody></table></td>
+ </tr><tr><td><br><p><em>CHANEL. SAINT LAURENT. THE ROW. OLD CÉLINE. ALAÏ
+ A. PRADA &amp\; MORE VINTAGE</em></p></td></tr></tbody></table>
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260723T110627Z
+DTSTART;VALUE=DATE:20260810
+LAST-MODIFIED:20260723T104444Z
+LOCATION:94 Newtown Ln\, East Hampton\, NY 11937\, Stany Zjednoczone
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:10-16 August: HAMPTONS Pop-Up
+TRANSP:TRANSPARENT
+UID:5e6eqt38auigcg0ncv0bkjpsjc@google.com
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15H
+UID:158F9F81-BB2D-4FA8-B93E-285EE3909360
+X-APPLE-DEFAULT-ALARM:TRUE
+X-WR-ALARMUID:158F9F81-BB2D-4FA8-B93E-285EE3909360
+END:VALARM
+END:VEVENT
+END:VCALENDAR
